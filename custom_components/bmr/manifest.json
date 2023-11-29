@@ -1,6 +1,7 @@
 {
     "domain": "bmr_hc64",
     "name": "BMR HC64",
+    "version": "1.0.0",
     "documentation": "https://github.com/slesinger/HomeAssistant-BMR",
     "dependencies": [],
     "codeowners": ["@slesinger"],
